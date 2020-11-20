@@ -8,5 +8,9 @@
 
 .app h1 {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.app input {
+    margin-bottom: 30px;
 }
